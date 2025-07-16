@@ -20,7 +20,7 @@ A fully functional, responsive **Calculator** built using **HTML**, **CSS**, and
 
 👉 [Try the Calculator](https://github.com/Omtechnayak/Calculator.git)
 
-> *(Replace the link with your GitHub Pages URL if hosted)*
+
 
 ## 📁 How to Run Locally
 
